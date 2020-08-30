@@ -20,7 +20,7 @@
     NSLog(@"我又新加了一次");
     
     
-    
+    NSLog(@"我继续添加");
     // Do any additional setup after loading the view.
 }
 
