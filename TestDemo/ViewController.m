@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"我又新加了一次");
     // Do any additional setup after loading the view.
 }
 
