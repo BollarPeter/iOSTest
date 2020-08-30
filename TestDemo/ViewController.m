@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"这是新加的代码");
     // Do any additional setup after loading the view.
 }
 
